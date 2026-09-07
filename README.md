@@ -1,10 +1,10 @@
 # Dance Battle
 
-A robotics software project developed as part of a Computer Science engineering program.
+A robotics project developed a as part of a school project.
 
 ## Overview
 
-Dance Battle is a robotic application designed for a dance competition between robots.
+Dance Battle is a robotic application designed for a dance competition between robots. The robot used is a Marty robot
 
 The project combines a graphical user interface, robot control, and HTTP-based communication between the different components of the system.
 
@@ -137,7 +137,7 @@ Start the client:
 python app_joueur/main.py
 ```
 
-The applications require the appropriate robot and network configuration to communicate with the robotic system.
+The applications require the appropriate robot (Marty) and network configuration to communicate with the robotic system.
 
 ## Academic Context
 
